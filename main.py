@@ -1,1 +1,3 @@
 
+unos = input().split()
+
